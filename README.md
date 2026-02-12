@@ -1,9 +1,11 @@
-## Hi there 👋 I'm Uliana | Junior Data Analyst
+## Hi there 👋 I'm Uliana | Junior Data Analyst ##
 
-#### 📊 Transforming Data into Actionable Insights  
-  
-I am a detail-oriented Data Analyst passionate about uncovering trends and solving complex problems through data.   
-I specialize in bridging the gap between raw numbers and strategic decision-making.
+🌱 I’m currently learning on Google Data Analytics course. Some practical skils from this course:  
+* Gain an immersive understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job  
+* Learn key analytical skills (data cleaning, analysis, & visualization) and tools (spreadsheets, SQL, Python, Tableau)
+* Understand how to clean and organize data for analysis, and complete analysis and calculations using spreadsheets, SQL and Python  
+* Learn how to visualize and present data findings in dashboards, presentations and commonly used visualization platforms  
+
 ---  
 ### 🛠 Technical Toolkit
 
@@ -25,12 +27,13 @@ The Process: Wrote complex SQL queries (CTEs, Subqueries, Window Functions) to s
 The Result: Reduced lead processing time by 20%.
 
 [Link to Project/Folder]
--->
+
 ---  
 ## 📈 Career Goal & Focus    
   
 I am currently looking for a Junior Data Analyst role. 
 I am particularly interested in roles that involve data storytelling and predictive modeling.
+-->
 ---  
 ## Connect with Me
 <!--
